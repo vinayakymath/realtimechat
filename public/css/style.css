@@ -183,6 +183,12 @@ a {
 	float: right;
 }
 
+#footer{
+	font-size: 13px;
+    text-align: center;
+    margin-top: 10px;
+}
+
 @media (max-width: 700px) {
 	.chat-main {
 		display: block;
